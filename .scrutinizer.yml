@@ -8,3 +8,5 @@ build:
             coverage:
               file: coverage/clover.xml
               format: clover
+      services:
+        mongo: 3.6.2
