@@ -1,0 +1,27 @@
+[
+    {
+        "firstname": "Heidi",
+        "lastname": "Patja",
+        "email": "heidi@gmail.com",
+        "password": "$2a$10$32ksKV6KWfIdfbpK4PKPLOiiXP4CDrM5BrHhwcfAXjRQRomUdG0Gy",
+        "balance": 10000,
+        "deposits": 10000,
+        "currencies": [
+            {
+                "currency": "UniCoin",
+                "amount": 57,
+                "value": 1197
+            },
+            {
+                "currency": "BaCoin",
+                "amount": 3,
+                "value": 50
+            },
+            {
+                "currency": "IceCreamCoin",
+                "amount": 12,
+                "value": 407
+            }
+        ]
+    }
+]
