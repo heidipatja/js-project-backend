@@ -12,8 +12,13 @@ sudo: false
 git:
     submodules: false
 
+services:
+    - mongodb
+
 before_script:
     - npm install
+    - sleep 15
+    - mongo trading --eval 'db.createUser({user:"travis",pwd:"test",roles:["readWrite"]});'
 
 script:
     - npm test

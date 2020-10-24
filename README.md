@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/heidipatja/js-project-backend.svg?branch=main)](https://travis-ci.org/heidipatja/js-project-backend)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/heidipatja/js-project-backend/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/heidipatja/js-project-backend/?branch=main)
+[![Code Coverage](https://scrutinizer-ci.com/g/heidipatja/js-project-backend/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/heidipatja/js-project-backend/?branch=main)
+
 ## Available Scripts
 
 ### `npm install`
