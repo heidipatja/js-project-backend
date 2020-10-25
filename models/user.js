@@ -88,7 +88,7 @@ const auth = {
 
             bcrypt.compare(password, user.password, (err, result) => {
                 if (result) {
-                    let token = jwt.sign({ email: email }, secret, { expiresIn: '1h'});
+                    let token = jwt.sign({ email: email }, secret, { expiresIn: '12h'});
 
                     return res.status(200).json({
                         data: {

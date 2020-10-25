@@ -14,13 +14,14 @@ describe('>>>TRADE>>>', () => {
     let token = {
         token: '',
         id: ''
-    }
+    };
 
     let user = {
         email: "heidi@gmail.com",
         password: "heidi"
-    }
+    };
 
+    // eslint-disable-next-line
     beforeEach(function(done) {
         chai.request(server)
             .post("/login")

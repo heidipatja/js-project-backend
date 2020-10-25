@@ -12,12 +12,12 @@
             {
                 "currency": "BaCoin",
                 "amount": 3,
-                "value": 50
+                "value": 15
             },
             {
                 "currency": "IceCreamCoin",
                 "amount": 12,
-                "value": 407
+                "value": 155
             }
         ]
     }
