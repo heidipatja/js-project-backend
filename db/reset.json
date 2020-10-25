@@ -1,11 +1,8 @@
 [
     {
-        "firstname": "Heidi",
-        "lastname": "Patja",
         "email": "heidi@gmail.com",
         "password": "$2a$10$32ksKV6KWfIdfbpK4PKPLOiiXP4CDrM5BrHhwcfAXjRQRomUdG0Gy",
         "balance": 10000,
-        "deposits": 10000,
         "currencies": [
             {
                 "currency": "UniCoin",
